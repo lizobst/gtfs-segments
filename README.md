@@ -1,4 +1,4 @@
-# gtfs-segments
+# gtfs-route-segments
 
 Segment GTFS shapes into stop-to-stop route segments that follow the original road geometry.
 
