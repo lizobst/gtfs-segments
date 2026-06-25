@@ -7,7 +7,7 @@ Most GTFS tools use Shapely's `.project()` to snap stops to shapes, which breaks
 ## Install
 
 ```bash
-pip install gtfs-segments
+pip install gtfs-route-segments
 ```
 
 For interactive map visualization:
