@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "gtfs-segments"
+name = "gtfs-route-segments"
 version = "0.1.0"
 description = "Segment GTFS shapes into stop-to-stop route segments with loop-aware projection"
 readme = "README.md"
