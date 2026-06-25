@@ -13,7 +13,7 @@ pip install gtfs-route-segments
 For interactive map visualization:
 
 ```bash
-pip install gtfs-segments[viz]
+pip install gtfs-route-segments[viz]
 ```
 
 ## Quick Start
